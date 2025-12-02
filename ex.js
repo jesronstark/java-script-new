@@ -8,6 +8,7 @@
 
 
 
+
 function generateLateExcuse() {
     const who = [
         "my pet llama",
