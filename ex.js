@@ -12,8 +12,7 @@
 
 
 
-
-function generateLateExcuse() {
+bcafunction generateLateExcuse() {
     const who = [
         "my pet llama",
         "the Queen of England",
