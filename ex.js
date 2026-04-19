@@ -1,7 +1,6 @@
 
 
 
-
 bcafunction generateLateExcuse() {
     const who = [
         "my pet llama",
